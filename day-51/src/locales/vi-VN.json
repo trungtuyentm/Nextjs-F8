@@ -1,0 +1,78 @@
+{
+    "name": "Phạm Trung Tuyển",
+    "mySkills": {
+        "title": "Các kỹ năng của tôi",
+        "workSkill": {
+            "title": "Các kỹ năng làm việc",
+            "content": "React.js, Next.js, Redux, Context, HTML5, Photoshop, UI/UX,..."
+        },
+        "otherSkill": {
+            "title": "Các kỹ năng khác",
+            "content": "Kỹ năng nghiên cứu và tìm kiếm tương đối ổn. Tư duy làm việc, kỹ năng làm việc nhóm tốt."
+        }
+    },
+    "Histories": {
+        "title": "Lịch sử",
+        "content": [
+            { "id": 1, "2014": "THPT Thanh Miện I" },
+            { "id": 2, "2017-2022": "Trường đại học Bách Khoa Hà Nội" },
+            {
+                "id": 3,
+                "2022-2024": "Kỹ sư thiết kế hệ thống cung cấp điện"
+            },
+            {
+                "id": 4,
+                "2024-2025": "Vào núi tu luyện võ công!"
+            }
+        ]
+    },
+    "contact": {
+        "title": "Thông tin liên hệ",
+        "content": {
+            "phone": "0966460416",
+            "zalo": "https://zalo.me",
+            "email": "phamtrungtuyentm@gmail.com",
+            "facebook": "https://www.facebook.com/",
+            "github": "https://github.com/trungtuyentm"
+        }
+    },
+    "personalProject": {
+        "title": "Các dự án cá nhân",
+        "content": [
+            {
+                "id": 1,
+                "title": "GreenChop",
+                "describe": "Một dự án nhỏ được tạo bởi HTML, CSS, SCSS.",
+                "content": "Một trang web bán hàng đơn giản được xây dựng nhằm vào mục đích rèn luyện kỹ năng sử dụng HTML, CSS, SCSS.",
+                "demo": "https://trungtuyentm.github.io/F8-FULLSTACK-K8/DAY-16/index.html",
+                "code": "https://github.com/trungtuyentm/F8-FULLSTACK-K8/tree/master/DAY-16"
+            },
+            {
+                "id": 2,
+                "title": "MP3 Player",
+                "describe": "Một dự án nhỏ được tạo bởi JavaScript",
+                "content": "Nhằm mục đích cung cấp một trải nghiệm nghe nhạc đơn giản và tiện lợi cho người dùng. Dự án này tập trung vào việc cho phép người dùng thực hiện các thao tác cơ bản với bài hát.",
+                "demo": "https://trungtuyentm.github.io/JavaScript-F8/DAY-30/index.html",
+                "code": "https://github.com/trungtuyentm/JavaScript-F8/tree/main/DAY-30"
+            },
+            {
+                "id": 3,
+                "title": "Shop",
+                "describe": "Một dự án nhỏ được tạo bởi React.js",
+                "content": "Một trang web bán hàng có sử dụng API. Chức năng chủ yếu: thêm, sửa, xóa, phân trang, router dom.",
+                "demo": "https://shop2-nu.vercel.app/",
+                "code": "https://github.com/trungtuyentm/JavaScript-F8/tree/main/DAY-46"
+            }
+        ]
+    },
+    "myHobbies": {
+        "title": "Sở thích cá nhân",
+        "content": [
+            "Ca hát, chơi guitar, piano, xem anime, đọc manga",
+            "Thích tìm kiếm cách tối ưu hóa quy trình làm việc, nhằm giảm thiểu thao tác và nâng cao hiệu quả công việc",
+            "Theo dõi Các Xu Hướng Công Nghệ, Tin Tức Về Các Sản Phẩm Nổi Tiếng Như Samsung, Iphone, Google,…",
+            "Theo dõi chính trị trong nước và tình hình kinh tế, đặc biệt là các vấn đề toàn cầu như chiến tranh và biến động quốc tế."
+        ]
+    },
+    "loading": "Đang tải..."
+}

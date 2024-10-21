@@ -1,0 +1,81 @@
+{
+    "name": "Mr. Trung Tuyển",
+    "mySkills": {
+        "title": "My Skills",
+        "workSkill": {
+            "title": "Web developer",
+            "content": "React.js, Next.js, Redux, Context, HTML5, Photoshop, UI/UX,..."
+        },
+        "otherSkill": {
+            "title": "Other skills",
+            "content": "Relatively good research and searching skills. Working mindset, good teamwork skills."
+        }
+    },
+    "Histories": {
+        "title": "Histories",
+        "content": [
+            { "id": 1, "2014": "Thanh Mien I High School" },
+            {
+                "id": 2,
+                "2017-2022": "Hanoi University of Science and Technology"
+            },
+            {
+                "id": 3,
+                "2022-2024": "Power supply system design engineer"
+            },
+            {
+                "id": 4,
+                "2024-2025": "Go to the mountains to practice martial arts!"
+            }
+        ]
+    },
+    "contact": {
+        "title": "Social contact",
+        "content": {
+            "phone": "0966460416",
+            "zalo": "https://zalo.me",
+            "email": "phamtrungtuyentm@gmail.com",
+            "facebook": "https://www.facebook.com/",
+            "github": "https://github.com/trungtuyentm"
+        }
+    },
+    "personalProject": {
+        "title": "Personal Project",
+        "content": [
+            {
+                "id": 1,
+                "title": "GreenChop",
+                "describe": "A small project made of HTML, CSS, SCSS.",
+                "content": "A simple sales website built for the purpose of practicing skills using HTML, CSS, SCSS.",
+                "demo": "https://trungtuyentm.github.io/F8-FULLSTACK-K8/DAY-16/index.html",
+                "code": "https://github.com/trungtuyentm/F8-FULLSTACK-K8/tree/master/DAY-16"
+            },
+            {
+                "id": 2,
+                "title": "MP3 Player",
+                "describe": "A small project created by JavaScript",
+                "content": "Aims to provide a simple and convenient music listening experience for users. This project focuses on allowing users to perform basic operations with songs.",
+                "demo": "https://trungtuyentm.github.io/JavaScript-F8/DAY-30/index.html",
+                "code": "https://github.com/trungtuyentm/JavaScript-F8/tree/main/DAY-30"
+            },
+            {
+                "id": 3,
+                "title": "Shop",
+                "describe": "A small project created by React.js",
+                "content": "A sales website that uses API. Main functions: add, edit, delete, pagination, router dom.",
+                "demo": "https://shop2-nu.vercel.app/",
+                "code": "https://github.com/trungtuyentm/JavaScript-F8/tree/main/DAY-46"
+            }
+        ]
+    },
+    "myHobbies": {
+        "title": "My Hobbies",
+        "content": [
+            "Singing, playing guitar, piano, watching anime, reading manga",
+            "Like finding ways to optimize work processes, to minimize operations and improve work efficiency,",
+            "Follow Technology Trends, News About Famous Products Like Samsung, Iphone, Google,...",
+            "Monitor domestic politics and economic situations, especially global issues such as war and international upheaval."
+        ]
+    },
+    "loading": "Loading..."
+}
