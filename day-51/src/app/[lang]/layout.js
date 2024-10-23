@@ -4,6 +4,7 @@ import Header from "@/layouts/Header";
 
 import { i18n } from "../../../i18n.config";
 import Providers from "@/redux/Providers";
+import { getServerSession } from "next-auth";
 
 export const metadata = {
     title: "Profile",
@@ -15,6 +16,7 @@ export async function generateStaticParams() {
 }
 
 export default async function RootLayout({ children, params: { lang } }) {
+    const session = await getServerSession();
     return (
         <html
             lang={lang}
@@ -36,7 +38,7 @@ export default async function RootLayout({ children, params: { lang } }) {
                     enableSystem
                     themes={["light", "dark"]}
                 >
-                    <Providers>
+                    <Providers session={session}>
                         <Header lang={lang} />
                         {children}
                     </Providers>

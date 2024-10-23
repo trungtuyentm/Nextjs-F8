@@ -14,7 +14,7 @@
     "Histories": {
         "title": "Histories",
         "content": [
-            { "id": 1, "2014": "Thanh Mien I High School" },
+            { "id": 1, "2014-2017": "Thanh Mien I High School" },
             {
                 "id": 2,
                 "2017-2022": "Hanoi University of Science and Technology"
@@ -76,6 +76,15 @@
             "Follow Technology Trends, News About Famous Products Like Samsung, Iphone, Google,...",
             "Monitor domestic politics and economic situations, especially global issues such as war and international upheaval."
         ]
+    },
+    "warning": {
+        "wrong": "Incorrect username or password!",
+        "shortcoming": "Please enter all required information!"
+    },
+    "button": {
+        "logSocial": "Log in with Social Media",
+        "loginBtn": "Sign in/Sign up",
+        "logOut": "Log out"
     },
     "loading": "Loading..."
 }

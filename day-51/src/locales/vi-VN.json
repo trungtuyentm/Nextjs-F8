@@ -14,7 +14,7 @@
     "Histories": {
         "title": "Lịch sử",
         "content": [
-            { "id": 1, "2014": "THPT Thanh Miện I" },
+            { "id": 1, "2014-2017": "THPT Thanh Miện I" },
             { "id": 2, "2017-2022": "Trường đại học Bách Khoa Hà Nội" },
             {
                 "id": 3,
@@ -73,6 +73,11 @@
             "Theo dõi Các Xu Hướng Công Nghệ, Tin Tức Về Các Sản Phẩm Nổi Tiếng Như Samsung, Iphone, Google,…",
             "Theo dõi chính trị trong nước và tình hình kinh tế, đặc biệt là các vấn đề toàn cầu như chiến tranh và biến động quốc tế."
         ]
+    },
+    "button": {
+        "logSocial": "Đăng nhập mạng xã hội",
+        "loginBtn": "Đăng nhập/Đăng ký",
+        "logOut": "Đăng xuất"
     },
     "loading": "Đang tải..."
 }

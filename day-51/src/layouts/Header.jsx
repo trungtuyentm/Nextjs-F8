@@ -33,6 +33,11 @@ export default function Header({ lang }) {
                     </ul>
                     <ul className="flex gap-4 items-center">
                         <li>
+                            <Link href={`/${lang}/auth`} className="text-2xl">
+                                <i className="bx bxs-user"></i>
+                            </Link>
+                        </li>
+                        <li>
                             <Link
                                 href="https://react.dev/"
                                 target="_blank"
