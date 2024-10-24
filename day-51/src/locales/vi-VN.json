@@ -75,8 +75,6 @@
         ]
     },
     "button": {
-        "logSocial": "Đăng nhập mạng xã hội",
-        "loginBtn": "Đăng nhập/Đăng ký",
         "logOut": "Đăng xuất"
     },
     "loading": "Đang tải..."

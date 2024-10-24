@@ -82,8 +82,6 @@
         "shortcoming": "Please enter all required information!"
     },
     "button": {
-        "logSocial": "Log in with Social Media",
-        "loginBtn": "Sign in/Sign up",
         "logOut": "Log out"
     },
     "loading": "Loading..."
