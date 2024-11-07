@@ -1,0 +1,22 @@
+.nav-link,
+.nav-action {
+    transition: background-color 0.2s linear;
+    font-size: 1rem;
+    padding: 8px 12px;
+    border-radius: 5px;
+    font-size: 1rem;
+}
+.nav-action {
+    color: #4f46e5;
+}
+.sign-up {
+    border: 1px solid #4f46e5;
+    &:hover {
+        background-color: #4f46e5;
+        color: #fff;
+    }
+}
+.nav-link-active {
+    background-color: #4f46e5;
+    color: #fff;
+}
